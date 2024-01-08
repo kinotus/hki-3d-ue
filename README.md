@@ -7,10 +7,15 @@ A rudimentary Unreal Engine 5 template project containing Helsinki 3D city model
 - Use for any real projects with your own risk.
 - CesiumSunSky settings are yet to be refined.
 
+## Versions
+
+- Only UnrealEngine 5.21 for now
+- Cesium for Unreal 5.2.0
+
 
 ## Data licenses
 
-Helsinki datasets are by the city of Helsinki survey department and available as CC BY 4.0. See https://kartta.hel.fi/paikkatietohakemisto/pth/?id=306
+Helsinki datasets are by the city of Helsinki survey department and available as CC BY 4.0. See https://kartta.hel.fi/paikkatietohakemisto/pth/?id=306 and https://hel.fi/3d
 
 ## Comments, ideas ?
 
@@ -18,8 +23,9 @@ Please leave an issue.
 
 
 ## TODO
-- Sea and other water areas
+- Water mask
 - Empty terrain
+- Trees, street furniture..
 - Camera controls
 - ...
 - Something else?
