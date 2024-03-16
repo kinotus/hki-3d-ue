@@ -1,3 +1,6 @@
+![image](https://github.com/kinotus/hki-3d-ue/assets/150700/2cece314-1507-4109-a900-99de7dbf1346)
+Version_20240316
+
 # Helsinki 3D city model for Unreal Engine
 
 A rudimentary Unreal Engine 5 template project containing Helsinki 3D city model data as 3DTiles used through Cesium for Unreal Engine plugin.
