@@ -3,7 +3,7 @@ Version_20240316
 
 # Helsinki 3D city model for Unreal Engine
 
-A rudimentary Unreal Engine 5 template project containing Helsinki 3D city model data as 3DTiles used through Cesium for Unreal Engine plugin.
+A rudimentary Unreal Engine 5 template project containing Helsinki 3D city model datasets as 3DTiles used through Cesium for Unreal Engine plugin.
 
 ## What to expect from latest version (and what not to)
 - Template is useable for browsing around the Helsinki in 3D, origin and georeferencing is "about there"
@@ -12,7 +12,7 @@ A rudimentary Unreal Engine 5 template project containing Helsinki 3D city model
 
 ## Versions
 
-- Only UnrealEngine 5.21 for now
+- UnrealEngine 5.2.1 and 5.7.0 for now
 - Cesium for Unreal 5.2.0
 
 
